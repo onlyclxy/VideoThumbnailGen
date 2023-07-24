@@ -1,0 +1,8 @@
+D:\OneDrive - qxyl\C#\打开关联视频\打开相关视频\打开相关视频\bin\Release\打开相关视频.exe.config
+D:\OneDrive - qxyl\C#\打开关联视频\打开相关视频\打开相关视频\bin\Release\打开相关视频.exe
+D:\OneDrive - qxyl\C#\打开关联视频\打开相关视频\打开相关视频\bin\Release\打开相关视频.pdb
+D:\OneDrive - qxyl\C#\打开关联视频\打开相关视频\打开相关视频\obj\Release\打开相关视频.csproj.AssemblyReference.cache
+D:\OneDrive - qxyl\C#\打开关联视频\打开相关视频\打开相关视频\obj\Release\打开相关视频.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - qxyl\C#\打开关联视频\打开相关视频\打开相关视频\obj\Release\打开相关视频.csproj.CoreCompileInputs.cache
+D:\OneDrive - qxyl\C#\打开关联视频\打开相关视频\打开相关视频\obj\Release\打开相关视频.exe
+D:\OneDrive - qxyl\C#\打开关联视频\打开相关视频\打开相关视频\obj\Release\打开相关视频.pdb
